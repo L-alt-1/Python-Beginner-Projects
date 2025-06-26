@@ -1,4 +1,4 @@
-#Declare Variables
+ #Declare Variables
 test_scores = 0
 total= 0
 count= 0
